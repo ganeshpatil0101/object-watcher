@@ -2,7 +2,8 @@
 
 Object watcher is library used to add a watercher on object. Whenever object properties being read or write 
 get callback & set callback will be notified with the object property.
-
+This library will not make any changes on exisiting structure of the object
+Object read or set new values to objects are same as read 
 ## Commands
 
 library code inside `/src`.

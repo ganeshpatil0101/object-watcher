@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
-  "name": "object-observer",
+  "name": "observe-object",
   "license": "MIT",
-  "description": "Library to observe the object when values from object read or write ",
+  "description": "Library to observe the object when values from object read or write",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
