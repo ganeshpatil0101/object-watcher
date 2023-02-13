@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "name": "observe-object",
+  "name": "observer-object",
   "license": "MIT",
   "description": "Library to observe the object when values from object read or write",
   "main": "dist/index.js",
